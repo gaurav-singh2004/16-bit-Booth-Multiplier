@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+img{
+    height:60;
+    width:30%;
+    margin-left: 35%;
+    border: 10px solid green;
+}
+p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin:40px;
+}
+#save{
+    font-size: 30px;
+    color:grey;
+    text-align: center;
+    font-family: cursive;
+}
